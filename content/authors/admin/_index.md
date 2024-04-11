@@ -11,14 +11,14 @@ last_name: Mec
 
 # Status emoji
 status:
-  icon: dart
+  icon: 🎯
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Undergrade of East China Normal University
-
+- role: Undergrade of East China Normal University
+  url: https://www.ecnu.edu.cn
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Computer institution of East China Normal University
@@ -45,9 +45,9 @@ education:
     date_start: 2021-09-01
     date_end: 2026-06-08
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Go ahead though I have not archieved something.
     button:
-      text: 'Read Thesis'
+      text: 'Read Thesis,soon'
       url: 'https://example.com'
   # - area: MEng Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
