@@ -138,7 +138,7 @@ skills:
         icon: sunrise_over_mountains
 
 languages:
-  - name: Madarin
+  - name: Mandarin
     percent: 100
   - name: English
     percent: 75
