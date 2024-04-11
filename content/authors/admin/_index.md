@@ -11,7 +11,7 @@ last_name: Mec
 
 # Status emoji
 status:
-  icon: :dart:
+  icon: dart
 
 # Is this the primary user of the site?
 superuser: true
