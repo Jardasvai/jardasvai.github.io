@@ -7,7 +7,7 @@ design:
 background:
   image:
     # Name of image in `assets/media/`.
-    filename: assets\media\icons\custom\background.jpg
+    filename: icons/custom/background.jpg
     # Apply image filters?
     filters:
       # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
