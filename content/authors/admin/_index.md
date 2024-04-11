@@ -17,9 +17,8 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 
-- name: Undergrade of East China Normal University
-  url: https://www.ecnu.edu.cn
+role:  Undergrade of East China Normal University
+  # url: https://www.ecnu.edu.cn
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Computer institution of East China Normal University
